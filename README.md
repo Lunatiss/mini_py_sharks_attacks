@@ -1,5 +1,7 @@
 # 🦈 Shark Tales: Unraveling the Mysteries of Messy Data
 
+👩‍💻 This project contain notebook associated with it. You can access here [here](https://github.com/Lunatiss/mini_py_sharks_attacks/blob/main/py_shark.ipynb).
+
 ## Introduction
 Welcome to the Shark Tales Data Wrangling project! In this adventure, we embarked on a journey to clean a messy data set known as "Shark Attacks" using various data wrangling techniques. Our mission was not only to tame the unruly data but also to prepare it for analysis for a use case of our choice. Throughout this exhilarating quest, we sharpened our Python skills, advanced toward mastery as data analysts, fostered teamwork, and honed our problem-solving abilities.
 
